@@ -47,5 +47,11 @@
         "key": "EXHEIBAOGE",
         "expirydate": "15-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "31f56fc354762690",
+        "key": "key65358",
+        "expirydate": "06-07-2026",
+        "Allowoffline": false
     }
 ]

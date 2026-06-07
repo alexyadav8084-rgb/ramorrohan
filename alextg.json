@@ -160,6 +160,12 @@
         "key": "key95745fsn2",
         "expirydate": "07-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f2dc3e62699df77",
+        "key": "key92486fsn2",
+        "expirydate": "07-08-2026",
+        "Allowoffline": false
     }
 ]
     

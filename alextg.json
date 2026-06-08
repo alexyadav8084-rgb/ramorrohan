@@ -196,6 +196,12 @@
         "key": "key825535fsn2",
         "expirydate": "09-06-2026",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "207083d288f24a4f",
+        "key": "key06475fsn2",
+        "expirydate": "08-07-2026",
+        "Allowoffline": false
+    },
 ]
     

@@ -304,6 +304,12 @@
         "key": "key01762bwka",
         "expirydate": "09-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "02c31e223232ad9c",
+        "key": "key0965cdthn47",
+        "expirydate": "09-07-2026",
+        "Allowoffline": false
     }
 ]
     

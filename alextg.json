@@ -262,6 +262,12 @@
         "key": "key401uemw2",
         "expirydate": "09-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "64c01d2cb528adda",
+        "key": "key48392hsmbs2",
+        "expirydate": "09-07-2026",
+        "Allowoffline": false
     }
 ]
     

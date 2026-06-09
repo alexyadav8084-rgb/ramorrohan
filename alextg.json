@@ -244,6 +244,12 @@
         "key": "key98228bemw2",
         "expirydate": "09-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bcdc3071f70411fe",
+        "key": "key4828bemw2",
+        "expirydate": "09-07-2026",
+        "Allowoffline": false
     }
 ]
     

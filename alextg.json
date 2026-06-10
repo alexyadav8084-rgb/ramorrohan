@@ -334,6 +334,12 @@
         "key": "key30975896yhjfx2",
         "expirydate": "10-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "83dfb7affdeadcbc",
+        "key": "key39863ef62",
+        "expirydate": "10-07-2026",
+        "Allowoffline": false
     }
 ]
     

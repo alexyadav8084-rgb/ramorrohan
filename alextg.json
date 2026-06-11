@@ -358,6 +358,12 @@
         "key": "key301727biroz",
         "expirydate": "11-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fd88e274477974cf",
+        "key": "key80854thbde36",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
     

@@ -360,20 +360,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "fd88e274477974cf",
-        "key": "key80854thbde36",
-        "expirydate": "11-07-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "d7df2152968fe9d8",
         "key": "key3s392obs2",
-        "expirydate": "11-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "d2c83e86256f9778",
-        "key": "key64684ftr43",
         "expirydate": "11-07-2026",
         "Allowoffline": false
     }

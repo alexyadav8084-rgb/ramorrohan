@@ -370,6 +370,12 @@
         "key": "key3s392obs2",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d2c83e86256f9778",
+        "key": "key64684ftr43",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
     

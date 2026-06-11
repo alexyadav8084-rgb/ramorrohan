@@ -10,5 +10,11 @@
         "key": "key6028hst8243",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "701e25d6d95d947c",
+        "key": "key640291heb3",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]

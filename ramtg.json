@@ -28,5 +28,11 @@
         "key": "key0288bejsk828",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c9872782b79a105d",
+        "key": "key0207jeb8919",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
